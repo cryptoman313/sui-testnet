@@ -5,7 +5,7 @@ CPU	10 core
 RAM	32GB
 Storage	1TB SSD
 OS	Ubuntu 20.04
-----------------------------
+-------------------------
 sudo apt update && sudo apt upgrade -y
 
 sudo apt install screen
